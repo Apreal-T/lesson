@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "Why Real Talk",
+            "body": "Life is not a bed of roses",
+            "author": "Chizoba",
+            "id": 1
+        },
+        {
+            "title": "What we teach",
+            "body": "You can have your desired relationship with the right Knowledge",
+            "author": "Omotayo",
+            "id": 2
+        },
+        {
+            "title": "Stories",
+            "body":"Everything you read has happened to someone and is still happening to some others",
+            "author":"Chizoba",
+            "id": 3
+        } 
+    ]
+}
